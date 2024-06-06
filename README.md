@@ -22,7 +22,9 @@ when it comes to cybersecurity-oriented roles, while still learning.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jacob-Mulli&theme=dark&hide_border=false)<br/>
 
 <h1 align="center" >(https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-Mulli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </h1>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-Mulli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
 
 ## 📊 GitHub Stats
 
