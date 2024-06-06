@@ -4,7 +4,7 @@
 <h1 align="center" style="color:gold;">Hi there! I'm Jacob Mulli</h1>
 
   I am a passionate software developer and Cyber Security Analyst.
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Falexreact_frontend-html-css-activity-7049349650729852928-ZF8A&psig=AOvVaw00i2ODuG4xOhSKD5BAQ2Nm&ust=1717794745465000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi295_yx4YDFQAAAAAdAAAAABBY">
+<img align="right" alt="Coding" width="400" src=" https://media.licdn.com/dms/image/D4E22AQH_eXyob8F9YA/feedshare-shrink_2048_1536/0/1680695925444?e=2147483647&v=beta&t=AwfdfHqGjVvqGW8BSV6gcXn1n6Rmaw8thAvtMCdn2gY  ">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_am_mulli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobmulli) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_mulli) 
