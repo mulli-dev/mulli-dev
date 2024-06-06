@@ -1,6 +1,6 @@
 ![alt text]( https://www.linkedin.com/in/jacobmulli/overlay/background-image/)
 
-# 💫 About Me:
+#  Hi there, I'm Jacob Mulli 
   I am a passionate software developer and Cyber Security Analyst.
 
 
