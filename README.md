@@ -1,6 +1,8 @@
 ![alt text]( https://media.licdn.com/dms/image/D4E16AQGul5AnQw5sTQ/profile-displaybackgroundimage-shrink_350_1400/0/1715580632068?e=1723075200&v=beta&t=JUxBmEdxr7L0SULePcCNkn9Wc7lIxC6vS_7UzdIE7zw)
 
 #  Hi there! I'm Jacob Mulli 
+<h1 align="center" style="color:gold;">Hi there! I'm Jacob Mulli</h1>
+
   I am a passionate software developer and Cyber Security Analyst.
 
 
