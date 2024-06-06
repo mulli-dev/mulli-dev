@@ -2,10 +2,10 @@
 
 
 <h1 align="center" style="color:gold;">Hi there! I'm Jacob Mulli</h1>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E22AQH_eXyob8F9YA/feedshare-shrink_2048_1536/0/1680695925444?e=2147483647&v=beta&t=AwfdfHqGjVvqGW8BSV6gcXn1n6Rmaw8thAvtMCdn2gY">
 
   I am a passionate software developer and Cyber Security Analyst.
   
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E22AQH_eXyob8F9YA/feedshare-shrink_2048_1536/0/1680695925444?e=2147483647&v=beta&t=AwfdfHqGjVvqGW8BSV6gcXn1n6Rmaw8thAvtMCdn2gY">
 
 
 ## 🌐 Socials:
