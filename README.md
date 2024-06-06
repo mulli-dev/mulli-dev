@@ -14,9 +14,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jacob-Mulli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-Mulli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📊 GitHub Stats
+
+![Jacob-Mulli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob-Mulli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Jacob-Mulli's%20GitHub%20Stats&line_height=27&count_private=true&hide=stars,prs,issues,contribs)
+
 ## ⭐ GitHub Stars
 
-![Stars](https://img.shields.io/badge/Stars-100-blue)
+- ⭐ **Stars Received:** 100
+- 🌟 **Top Repositories:**
+  - [Repo 1](#): ⭐ 50
+  - [Repo 2](#): ⭐ 30
+  - [Repo 3](#): ⭐ 20
 
 
 
