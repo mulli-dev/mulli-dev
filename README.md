@@ -32,17 +32,7 @@ when it comes to cybersecurity-oriented roles, while still learning.
 
 
 
-## 📊 GitHub Stats
 
-![Jacob-Mulli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob-Mulli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Jacob- Mulli's%20GitHub%20Stats&line_height=27&count_private=true&hide=stars,prs,issues,contribs)
-
-## ⭐ GitHub Stars
-
-- ⭐ **Stars Received:** 100
-- 🌟 **Top Repositories:**
-  - [Repo 1](#): ⭐ 50
-  - [Repo 2](#): ⭐ 30
-  - [Repo 3](#): ⭐ 20
 
 
 
@@ -54,6 +44,34 @@ when it comes to cybersecurity-oriented roles, while still learning.
 <P>  
 <img src= "https://github-contributor-stats.vercel.app/api?username=Jacob-Mulli&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </P>
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mulli-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mulli-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mulli-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
