@@ -11,8 +11,8 @@ crafting secure and dynamic digital experiences, and trained by CompTIA Security
 when it comes to cybersecurity-oriented roles, while still learning.
   
 
-# 🌍 Socials:
-<div align="center">
+
+# <div align="center">
   <h1>🌍 Socials:</h1>
 </div>
 
