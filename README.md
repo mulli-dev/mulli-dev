@@ -36,14 +36,7 @@ when it comes to cybersecurity-oriented roles, while still learning.
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jacob-Mulli&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jacob-Mulli&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<P>  
-<img src= "https://github-contributor-stats.vercel.app/api?username=Jacob-Mulli&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</P>
 
 
 
@@ -55,13 +48,12 @@ when it comes to cybersecurity-oriented roles, while still learning.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mulli-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mulli-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mulli-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
