@@ -62,7 +62,8 @@ when it comes to cybersecurity-oriented roles, while still learning.
 </br>
  <b>Check out<b>  <a href="https://core-portfolio.netlify.app/ "><b>My Portfolio<b></a>
 </br>
-</b>
+</br>
+
 <a href="https://committers.top/kenya"><b>Top Kenyan Contributor<b></a>
 
 
