@@ -25,7 +25,8 @@ when it comes to cybersecurity-oriented roles, while still learning.
 </p>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jacob-Mulli&theme=dark&hide_border=false)
+<p align="center" >
+  < img src= "https://github-readme-streak-stats.herokuapp.com/?user=Jacob-Mulli&theme=dark&hide_border=false" alt="Top Stats" > </p>
 
 
 
