@@ -61,7 +61,7 @@ when it comes to cybersecurity-oriented roles, while still learning.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mulli-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/REGION/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/Kenya/mulli-dev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
