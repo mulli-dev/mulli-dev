@@ -60,12 +60,11 @@ when it comes to cybersecurity-oriented roles, while still learning.
 ![](https://github-profile-trophy.vercel.app/?username=mulli-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </br>
 </br>
- Check out  <a href="https://core-portfolio.netlify.app/ ">My Portfolio</a>
+ Check out  <a href="https://core-portfolio.netlify.app/ "><b>My Portfolio<b></a>
 </br>
+<a href="https://committers.top/kenya"><b>Top Kenyan Contributor<b></a>
 
 
-
-<a href="https://committers.top/kenya">Top Kenyan Contributor</a>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mulli-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
