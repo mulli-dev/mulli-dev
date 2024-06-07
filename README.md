@@ -59,9 +59,9 @@ when it comes to cybersecurity-oriented roles, while still learning.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mulli-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </br>
-</br
+</br>
  Check out  <a href="https://core-portfolio.netlify.app/ ">My Portfolio</a>
-
+</br>
 
 
 
