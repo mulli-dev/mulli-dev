@@ -24,18 +24,35 @@ when it comes to cybersecurity-oriented roles, while still learning.
 
 
 
-
-
-
-
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mulli-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Top Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulli-dev&theme=dark&hide_border=false" alt="Streak Stats">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mulli-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
