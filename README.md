@@ -13,7 +13,7 @@ when it comes to cybersecurity-oriented roles, while still learning.
 
 
 <div align="center">
-  <h1>🌍 Socials:</h1>
+  <h1>🌍 My Socials:</h1>
 </div>
 
 
