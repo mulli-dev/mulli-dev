@@ -45,10 +45,26 @@ when it comes to cybersecurity-oriented roles, while still learning.
 
 <img src="https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_600_2000/0/1626934133895?e=2147483647&v=beta&t=xcXhgbXVEPbZYy7FRpsFM2-1u9Zyg-UMisumOcYkpG4">
       
+    </td>    
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Top Stats">
     </td>
-
-
-    
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulli-dev&theme=dark&hide_border=false" alt="Streak Stats">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_600_2000/0/1626934133895?e=2147483647&v=beta&t=xcXhgbXVEPbZYy7FRpsFM2-1u9Zyg-UMisumOcYkpG4" alt="Additional Image">
+    </td>
   </tr>
 </table>
 
