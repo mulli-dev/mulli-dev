@@ -68,7 +68,7 @@ when it comes to cybersecurity-oriented roles, while still learning.
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mulli-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
