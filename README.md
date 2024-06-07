@@ -41,7 +41,7 @@ when it comes to cybersecurity-oriented roles, while still learning.
     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulli-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </td>
-    <td>
+    <td   colspan="2"  >
 
 <img src="https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_600_2000/0/1626934133895?e=2147483647&v=beta&t=xcXhgbXVEPbZYy7FRpsFM2-1u9Zyg-UMisumOcYkpG4">
       
