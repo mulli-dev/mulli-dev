@@ -60,8 +60,9 @@ when it comes to cybersecurity-oriented roles, while still learning.
 ![](https://github-profile-trophy.vercel.app/?username=mulli-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </br>
 </br>
- Check out  <a href="https://core-portfolio.netlify.app/ "><b>My Portfolio<b></a>
+ <b>Check out<b>  <a href="https://core-portfolio.netlify.app/ "><b>My Portfolio<b></a>
 </br>
+</b>
 <a href="https://committers.top/kenya"><b>Top Kenyan Contributor<b></a>
 
 
