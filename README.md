@@ -12,7 +12,7 @@ when it comes to cybersecurity-oriented roles, while still learning.
   
 
 
-#🌍 My Socials
+#🌍 My Socials:
 
 
 
