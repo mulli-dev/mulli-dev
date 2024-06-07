@@ -4,7 +4,7 @@
 <h1 align="center" style="color:gold;">Hi there! I'm Jacob Mulli</h1>
 <img align="right" alt="Coding" width="260" src="https://media.licdn.com/dms/image/D4E22AQH_eXyob8F9YA/feedshare-shrink_2048_1536/0/1680695925444?e=2147483647&v=beta&t=AwfdfHqGjVvqGW8BSV6gcXn1n6Rmaw8thAvtMCdn2gY">
 
-A Versatile Software Developer and Cybersecurity Expert proficient in Go language for robust security solutions.
+A versatile Software Developer and Cybersecurity Expert proficient in Go language for robust security solutions.
 Specializing in MERN stack (MongoDB, Express.js, React, Node.js), SQL, NextJS, PowerBi for data analysis and
 presentations, and JavaScript for comprehensive web-application development and cyber security. Passionate about
 crafting secure and dynamic digital experiences, and trained by CompTIA Security+ (SY0-701) to ensure the best of me
