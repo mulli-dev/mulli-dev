@@ -1,4 +1,4 @@
-![alt text]( https://media.licdn.com/dms/image/D4E16AQGul5AnQw5sTQ/profile-displaybackgroundimage-shrink_350_1400/0/1715580632068?e=1723075200&v=beta&t=JUxBmEdxr7L0SULePcCNkn9Wc7lIxC6vS_7UzdIE7zw)
+![alt text]( https://media.licdn.com/dms/image/D5616AQFVCbvTgPV9dQ/profile-displaybackgroundimage-shrink_350_1400/0/1718098773516?e=1723680000&v=beta&t=RiqOyVyPK3rVp8v5tONYXptspx28_u-KsVEwuvBA380)
 
 
 <h1 align="center" style="color:gold;">Hi there🖐 I'm Jacob Mulli</h1>
